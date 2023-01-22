@@ -1,0 +1,9 @@
+logger\LoggerProcessor.class
+logger\out\LoggerOutput.class
+logger\out\JsonFileOutput.class
+logger\in\CSVLogReader.class
+logger\out\ConsoleOutput.class
+logger\in\JsonLogReader.class
+logger\in\LogReader.class
+logger\LogMessage.class
+logger\LogLevel.class

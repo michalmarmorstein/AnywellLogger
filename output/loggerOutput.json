@@ -1,0 +1,7 @@
+{
+  "ERROR" : [ "invalid input1", "invalid input2" ],
+  "WARNING" : [ "no default value1", "no default value2" ],
+  "DEBUG" : [ "this is csv log file1", "this is csv log file2" ],
+  "TEST" : [ "testing new log level" ],
+  "INFO" : [ "this is logger" ]
+}
